@@ -4,4 +4,4 @@
 
 def add(a, b):
     """Return the addition of a and b."""
-    return (a + b)1
+    return (a + b)
